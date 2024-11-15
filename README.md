@@ -10,7 +10,7 @@
 
 **<ins>Mentor</ins>:-** Neel Santhosh Kumar
 
-# <ins>Project Name</ins> :- Interactive Quiz Application
+# <ins>Project Name</ins> :- TO-DO LIST APPLICATION WITH LOCAL STORAGE
 
 Certainly! Here's an overview of the given HTML code for a To-Do App:
 
